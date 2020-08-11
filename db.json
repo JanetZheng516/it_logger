@@ -1,0 +1,28 @@
+{
+  "logs": [
+    {
+      "id": 2,
+      "message": "hard drive failed on workstation 002",
+      "attention": false,
+      "tech": "Sam Smith",
+      "date": "2020-08-07T14:41:14.083Z"
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstName": "John",
+      "lastName": "Doe"
+    },
+    {
+      "id": 2,
+      "firstName": "Sam",
+      "lastName": "Smith"
+    },
+    {
+      "id": 3,
+      "firstName": "Sara",
+      "lastName": "Wilson"
+    }
+  ]
+}
